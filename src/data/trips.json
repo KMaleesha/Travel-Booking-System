@@ -1,0 +1,30 @@
+[
+    {
+        "img": "../assets/images/travel1.jpg",
+        "alt": "Thera, Greece",
+        "name": "Thera, Greece",
+        "button" : "View destination"
+    },
+
+    {
+        "img": "../assets/images/travel2.jpg",
+        "alt": "Mirissa, SriLanka",
+        "name": "Mirissa, SriLanka",
+        "button" : "View destination"
+    },
+
+    {
+        "img": "../assets/images/travel4.jpg",
+        "alt": "Fujinomiya, Japan",
+        "name": "Fujinomiya, Japan",
+        "button" : "View destination"
+    },
+
+    {
+        "img": "../assets/images/travel3.jpg",
+        "alt": "Indonesia",
+        "name": "Indonesia",
+        "button" : "View destination"
+    }
+ 
+]
